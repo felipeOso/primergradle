@@ -20,7 +20,7 @@ jar{
 }
 
 test{
-	jacoco{
+	jacoco{''''''
 		append = false
 		destinationFile =file("jacoco/jacocoTest.exec")
 	}
